@@ -1,5 +1,4 @@
 "use client";
-import { CreditCard, Home, Settings } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { navItems } from "./UserNav";
